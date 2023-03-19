@@ -1,4 +1,4 @@
-#Weather API using RapidAPI
+# Weather API using RapidAPI
 This is a SpringBoot Java application that integrates with the Weather API from RapidAPI to provide two RESTful APIs that return weather forecast data for any city. The APIs use header-based authentication with a random client ID and secret.
 
 #Authentication
